@@ -1,1 +1,1 @@
-# CSC343 Assignment 2
+# CSC343 Assignments
